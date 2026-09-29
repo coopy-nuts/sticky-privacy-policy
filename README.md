@@ -2,10 +2,10 @@
 
 # Privacy Policy
 
-Last updated: [YYYY-MM-DD]
+Last updated: 2026-09-29
 
 ## 1. Overview
-This application ("App") is provided by [Your Name] ("we", "our", or "us").
+This application ("App") is provided by Natsuki ("we", "our", or "us").
 
 We respect your privacy and are committed to protecting your information. This Privacy Policy explains how information is collected, used, and shared when you use this App.
 
@@ -106,6 +106,6 @@ Changes will be posted on this page with an updated date.
 
 If you have any questions, please contact:
 
-Email: [your-email@example.com]
+Email: coopy.nuts@gmail.com
 
 ---
